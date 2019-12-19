@@ -1,0 +1,27 @@
+>>> Running t1 lang...
+>>> 11 is odd
+>>> Running t1 lang...
+>>> Correct condition statment value is 1
+>>> In the else part
+>>> The statment was executed with the value of 2
+
+>>> 0
+>>> 0
+>>> 0
+>>> 0
+>>> 0
+>>> 0
+>>> 0
+>>> 0
+>>> 0
+>>> 0
+>>> 0
+>>> 0
+>>> 8
+>>> 15
+>>> 1
+>>> 243
+>>> Running t1 lang...
+>>> 120
+>>> Running t1 lang...
+>>> 11 is a prime number.

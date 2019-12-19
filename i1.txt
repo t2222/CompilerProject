@@ -1,0 +1,22 @@
+$$ if else demo $$
+
+if(2>1)then 0+1;
+if(2<1)then 0+0 else 0+2;
+
+$loop
+loop(12,0);
+
+$numerical operation
+$$ performs basic 
+ numerical operation $$
+a = 3;
+b = 5;
+c = a+b;
+print c;
+c = a*b;
+print c;
+c = b/a;
+print c;
+c = a**b;
+print c;
+

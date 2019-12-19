@@ -1,0 +1,5 @@
+$oddeven number
+$$ demonstration of 
+function $$
+
+isoddeven(11);

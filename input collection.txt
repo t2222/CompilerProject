@@ -1,0 +1,54 @@
+-----------------------------------------------------------------
+
+$$ if else demo $$
+
+if(2>1)then 0+1;
+if(2<1)then 0+0 else 0+1;
+
+$loop
+loop(12,0);
+
+$numerical operation
+$$ performs basic 
+ numerical operation $$
+a = 3;
+b = 5;
+c = a+b;
+print c;
+c = a*b;
+print c;
+c = b/a;
+print c;
+c = a**b;
+print c;
+exit;
+
+
+
+------------------------------------------------------------------
+
+$oddeven number
+$$ demonstration of 
+function $$
+
+isoddeven(11);
+
+
+-------------------------------------------------------------------
+
+$prime number
+$$ demonstration of 
+function $$
+
+isprime(11);
+
+-----------------------------------------------------------------
+
+$array
+iarray(1,10);
+1 2 3 4 5 6 7 8 9 10
+
+
+
+
+

@@ -1,0 +1,4 @@
+$$factorial of 
+a number$$
+
+factorial(5);

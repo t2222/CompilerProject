@@ -1,0 +1,7 @@
+1. Build the program by running build.bat.
+2. Run execute.bat to test the program with 4 types of output. 
+3. Consecutively check the for the outputs in o1, o2, o3, o4 files for the input of i1, i2, i3, i4 files.
+4. To run the program again clear the contents of o1, o2, o3, o4 files by running "delete_contents_of_output_files.bat" script.
+
+-by 1607015
+
